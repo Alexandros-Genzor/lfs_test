@@ -80,3 +80,5 @@ crashlytics-build.properties
 
 # Dedicated project build destination folder
 /[Bb]uilds/
+
+*.png
